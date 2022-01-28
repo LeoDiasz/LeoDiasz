@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/936094333248086058/936094565608353812/ZeonityDev.png" />
+  <img src="https://cdn.discordapp.com/attachments/936094333248086058/936415895994138714/homeDeveloper.png" />
 </div>
 
 </br>
@@ -13,13 +13,28 @@
 
 </br>
 
-<p align="center">
- I'm currently in the 4th semester of the Faculty of Analysis and Systems Development at Senac RS. I'm a super curious person, always looking to learn new technologies, but focused on developing solutions for people and helping my family.
-</p>  
+<section>
+  <div>
+    <h4>👨‍💻 About me </h4>
+    <p align="left">
+      - I'm currently in the 4th semester of the Faculty of Analysis and Systems Development at Senac RS. I'm a super curious person, always looking to learn new technologies,         but focused on developing solutions for people and helping my family.
+    </p>  
+  </div>
+  </br>
+  <div>
+    <h4>✨ Goals </h4>
+    <p align="left">
+     - Looking for an internship opportunity in the front-end área.
+    </p>  
+  </div>
+  </br>
+
+
+</section>
 
 <!-- Stats  Tecnology LeoDiasz-->
 
-<h2 align="center">Technology Stack</h2>
+<h2 align="center">🛠️ Technology Stack</h2>
 
 </br>
 
@@ -40,7 +55,7 @@
 
 <!-- Contact  LeoDiasz-->
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">🤳 Connect with me</h2>
 
 </br>
 
@@ -60,7 +75,7 @@
 <!-- Stats  LeoDiasz-->
 
 <h2 align="center">
-  My Github Stats
+  📊 My Github Stats
 </h2>
  
 </br>
