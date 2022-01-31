@@ -24,7 +24,7 @@
   <div>
     <h4>✨ Goals </h4>
     <p align="left">
-     - Looking for an internship opportunity in the front-end área.
+     - Looking for an internship opportunity in the front-end or back-end área.
     </p>  
   </div>
   </br>
