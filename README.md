@@ -24,7 +24,7 @@
   <div>
     <h4>✨ Goals </h4>
     <p align="left">
-     - Looking for an internship opportunity in the front-end or back-end área.
+     - Looking for an internship opportunity in the front-end or back-end area. Working with react.js or node.js technologies.
     </p>  
   </div>
   </br>
