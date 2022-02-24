@@ -72,21 +72,4 @@
   </a>
 </div>
 
-<!-- Stats  LeoDiasz-->
-
-<h2 align="center">
-  📊 My Github Stats
-</h2>
- 
-</br>
-
-<div align="center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=LeoDiasz&show_icons=false&theme=midnight-purple&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDiasz&hide=html,css&theme=midnight-purple">
-</div>
-
-<div align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LeoDiasz&show_icons=true&locale=en&layout=compact&theme=midnight-purple&line_height=0" />
-</div> 
-
 
