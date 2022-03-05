@@ -3,15 +3,6 @@
   <img src="https://cdn.discordapp.com/attachments/936094333248086058/936415895994138714/homeDeveloper.png" />
 </div>
 
-</br>
-
-<div align="center">
- <img src="https://badges.pufler.dev/visits/LeoDiasz/LeoDiasz"/> 
- <img src="https://badges.pufler.dev/repos/LeoDiasz"/>
- <img src="https://badges.pufler.dev/commits/monthly/LeoDiasz" />
-</div>
-
-</br>
 
 <section>
   <div>
