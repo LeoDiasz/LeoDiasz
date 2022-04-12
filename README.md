@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/936094333248086058/936415895994138714/homeDeveloper.png" />
+  <img src="https://cdn.discordapp.com/attachments/936094333248086058/963420704030728203/banner_leonardo_dias.png" />
 </div>
 
 
