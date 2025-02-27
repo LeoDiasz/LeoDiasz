@@ -8,7 +8,9 @@
   <div>
     <h4>👨‍💻 About me </h4>
     <p align="left">
-      - I'm currently in the 4th semester of the Faculty of Analysis and Systems Development at Senac RS. I'm a super curious person, always looking to learn new technologies,         but focused on developing solutions for people and helping my family.
+       I am Leonardo Dias, 23 years old, a Black man, and I work as a Full Stack developer at Dbc Company. I am part of the Transactional Security team for our client Sicredi, working in the Backoffice area for Fraud Prevention tools, and in our main service, the Security Orchestrator, which handles over millions transactions per month.
+  
+  Interested in various fields and always deepening my knowledge, I am passionate about Psychology, Mental Health, Sports, and Technology. My life goal is to inspire people to take better care of themselves and to become their best versions every day.
     </p>  
   </div>
   </br>
@@ -17,27 +19,6 @@
 
 
 </section>
-
-<!-- Stats  Tecnology LeoDiasz-->
-
-<h2 align="center">🛠️ Technology Stack</h2>
-
-</br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
 
 <!-- Contact  LeoDiasz-->
 
